@@ -3,7 +3,7 @@ O Botão de segurança com arduino tem como objetivo principal garantir uma maio
 
 # Pré-Requisitos
 ● Arduino Nano
-● 2 Botões
+<p>● 2 Botões </p>
 ● Módulo de GPS (Módulo GPS NEO-6M com antena)
 ● GSM 800L
 ● Jumpers
