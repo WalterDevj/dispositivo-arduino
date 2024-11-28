@@ -1,7 +1,7 @@
 # Descrição
 O Botão de segurança com arduino tem como objetivo principal garantir uma maior segurança para o público geral em situações de risco, aonde apertando um botão soa o alarme do dispostivo e apertando o outro é enviada a localização do portador do dispositivo.
 
-# Pré-Requisitos
+# 📚 Pré-Requisitos
 ● Arduino Nano
 <p>● 2 Botões </p>
 <p> ● Módulo de GPS (Módulo GPS NEO-6M com antena)</p>
@@ -17,8 +17,8 @@ Para o desenvolvimento do dispositivo foi utilizada a plataforma do Arduino com 
 
 ● [C++](https://www.bloodshed.net/)  ● [Arduino](https://www.arduino.cc/)
 
-# Schema
+# 📖 Schema
 
 ![image](https://github.com/user-attachments/assets/d43c1d0f-7c02-4cd0-b12d-b22c8d06fc51)
 
-
+# 📌 Informações Adicionais
