@@ -22,12 +22,12 @@ void setup() {
 }
 void loop() 
 {
- pinstatus=digitalRead(buttonpin);    // Lê o estado da entrada digital e armazena o valor da variável dpinstatus
+ pinstatus=digitalRead(buttonpin);     // Lê o estado da entrada digital e armazena o valor da variável dpinstatus
  if (pinstatus==HIGH)                 // Declara condição que verifica o status da entrada, pinstatus HIGH define   
- {                                  //   que quando o botão for apertado o valor do pinstatus vai se tornar HIGH/"ativo"
-  digitalWrite(buzzerpin,HIGH); // Declara que quando estado da entrada for HIGH, então o buzzer/alarme vai ser declarado como HIGH e ele vai ser acionado
-  if (gpsSerial.available() > 0) { // Ativando o Módulo de GPS que verifica com o uso da biblioteca TinyGPS++ latitude, altitude, velocidade e declara data e hora
-    if (gps.encode(gpsSerial.read())) { //Quando o valor for diferente de 0 realiza a leitura das informações dadas pelo GPS
+ {                                   //   que quando o botão for apertado o valor do pinstatus vai se tornar HIGH/"ativo"
+  digitalWrite(buzzerpin,HIGH);     // Declara que quando estado da entrada for HIGH, então o buzzer/alarme vai ser declarado como HIGH e ele vai ser acionado
+  if (gpsSerial.available() > 0) {    // Ativando o Módulo de GPS que verifica com o uso da biblioteca TinyGPS++ latitude, altitude, velocidade e declara data e hora
+    if (gps.encode(gpsSerial.read())) {    //Quando o valor for diferente de 0 realiza a leitura das informações dadas pelo GPS
       if (gps.location.isValid()) {
         Serial.print(F("- latitude: "));
         Serial.println(gps.location.lat());
