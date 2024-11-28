@@ -10,6 +10,7 @@ O Botão de segurança com arduino tem como objetivo principal garantir uma maio
 <p>● Resistor</p>
 <p>● Resistor 470 oms (470 r)</p>
 <p>● Capacitor 2200uF/25V</p>
+<p>● Pilha de lítio 3.4/4.3V</p>
 
 # 🛠 Tecnologias [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
