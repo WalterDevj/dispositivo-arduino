@@ -9,6 +9,7 @@ O Botão de segurança com arduino tem como objetivo principal garantir uma maio
 <p>● Jumpers</p>
 <p>● Resistor</p>
 <p>● Resistor 470 oms (470 r)</p>
+<p>● Capacitor 2200uF/25V</p>
 
 # 🛠 Tecnologias [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
@@ -19,4 +20,5 @@ Para o desenvolvimento do dispositivo foi utilizada a plataforma do Arduino com 
 # Schema
 
 ![image](https://github.com/user-attachments/assets/d43c1d0f-7c02-4cd0-b12d-b22c8d06fc51)
+
 
