@@ -5,4 +5,4 @@ O Botão de segurança com arduino tem como objetivo principal garantir uma maio
 
 Para o desenvolvimento do dispositivo foi utilizada a plataforma do Arduino com o uso da linguagem C++.
 
-# ● https://www.bloodshed.net/
+● [C++](https://www.bloodshed.net/)
