@@ -4,11 +4,11 @@ O Botão de segurança com arduino tem como objetivo principal garantir uma maio
 # Pré-Requisitos
 ● Arduino Nano
 <p>● 2 Botões </p>
-● Módulo de GPS (Módulo GPS NEO-6M com antena)
-● GSM 800L
-● Jumpers
-● Resistor
-● Resistor 470 oms (470 r)
+<p> ● Módulo de GPS (Módulo GPS NEO-6M com antena)</p>
+<p>● GSM 800L</p>
+<p>● Jumpers</p>
+<p>● Resistor</p>
+<p>● Resistor 470 oms (470 r)</p>
 
 # 🛠 Tecnologias [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
