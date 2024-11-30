@@ -20,6 +20,7 @@ Para o desenvolvimento do dispositivo foi utilizada a plataforma do Arduino com 
 
 # 📖 Schema
 
+![image](https://github.com/user-attachments/assets/3f744faf-ad93-4633-8729-8a39200bb31a)
 
 
 # 📌 Informações Adicionais
